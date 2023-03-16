@@ -5,3 +5,4 @@
 *://*.apps112.com/*
 *://*.driversdownloader.com/*
 *://*.uptodown.com/*
+*://magiskzip.com/*
