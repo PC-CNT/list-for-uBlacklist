@@ -4,3 +4,4 @@
 *://*.superpaba.com/*
 *://*.apps112.com/*
 *://*.driversdownloader.com/*
+*://*.uptodown.com/*
