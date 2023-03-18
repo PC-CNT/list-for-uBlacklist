@@ -7,3 +7,4 @@
 *://*.uptodown.com/*
 *://magiskzip.com/*
 *://www.exedb.com/*
+*://*.joecomp.com/*
