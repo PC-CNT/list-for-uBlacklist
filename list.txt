@@ -11,3 +11,5 @@
 *://*.railstoolkit.com/*
 *://www.exefiles.com/*
 *://www.winxdvd.com/*
+http://www.ispadvisors.co.jp/*
+https://ispadvisors-co-jp.secure-web.jp/*
