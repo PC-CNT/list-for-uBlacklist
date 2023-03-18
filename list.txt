@@ -6,3 +6,4 @@
 *://*.driversdownloader.com/*
 *://*.uptodown.com/*
 *://magiskzip.com/*
+*://www.exedb.com/*
