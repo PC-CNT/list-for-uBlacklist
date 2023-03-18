@@ -10,3 +10,4 @@
 *://*.joecomp.com/*
 *://*.railstoolkit.com/*
 *://www.exefiles.com/*
+*://www.winxdvd.com/*
