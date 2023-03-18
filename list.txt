@@ -8,3 +8,4 @@
 *://magiskzip.com/*
 *://www.exedb.com/*
 *://*.joecomp.com/*
+*://*.railstoolkit.com/*
