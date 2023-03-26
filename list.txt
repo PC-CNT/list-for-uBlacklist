@@ -38,3 +38,4 @@ http://corosoku.blog.jp/*
 *://*.softonic.com.tr/*
 *://*.softonic.vn/*
 *://*.softnic.cn/*
+*://kamigame.jp/*
