@@ -39,3 +39,4 @@ http://corosoku.blog.jp/*
 *://*.softonic.vn/*
 *://*.softnic.cn/*
 *://kamigame.jp/*
+*://www.healthyhubv.com/*
