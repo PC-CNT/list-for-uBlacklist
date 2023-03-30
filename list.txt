@@ -40,3 +40,4 @@ http://corosoku.blog.jp/*
 *://*.softnic.cn/*
 *://kamigame.jp/*
 *://www.healthyhubv.com/*
+*://*.gamewith.jp/*
