@@ -42,3 +42,4 @@ http://corosoku.blog.jp/*
 *://www.healthyhubv.com/*
 *://*.gamewith.jp/*
 *://gehasoku.com/*
+*://www.ino-inc.com/*
