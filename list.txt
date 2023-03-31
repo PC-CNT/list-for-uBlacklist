@@ -43,3 +43,4 @@ http://corosoku.blog.jp/*
 *://*.gamewith.jp/*
 *://gehasoku.com/*
 *://www.ino-inc.com/*
+*://www.4900.co.jp/*
