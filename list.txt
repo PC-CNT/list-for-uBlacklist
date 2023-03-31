@@ -41,3 +41,4 @@ http://corosoku.blog.jp/*
 *://kamigame.jp/*
 *://www.healthyhubv.com/*
 *://*.gamewith.jp/*
+*://gehasoku.com/*
