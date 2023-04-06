@@ -46,3 +46,4 @@ http://corosoku.blog.jp/*
 *://www.4900.co.jp/*
 *://www.4videosoft.com/*
 *://www.4videosoft.jp/*
+*://multirecommend.com/*
