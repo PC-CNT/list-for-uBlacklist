@@ -49,3 +49,4 @@ http://corosoku.blog.jp/*
 *://multirecommend.com/*
 *://appmedia.jp/*
 *://*.altapps.net/*
+*://nog.nogomi.ru/*
