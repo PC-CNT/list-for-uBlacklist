@@ -50,3 +50,4 @@ http://corosoku.blog.jp/*
 *://appmedia.jp/*
 *://*.altapps.net/*
 *://nog.nogomi.ru/*
+*://masheri.xyz/*
