@@ -52,3 +52,4 @@ http://corosoku.blog.jp/*
 *://nog.nogomi.ru/*
 *://masheri.xyz/*
 *://www.a7la-home.com/*
+*://www.farsroid.com/*
