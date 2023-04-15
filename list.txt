@@ -53,3 +53,4 @@ http://corosoku.blog.jp/*
 *://masheri.xyz/*
 *://www.a7la-home.com/*
 *://www.farsroid.com/*
+*://chomanga.org/*
