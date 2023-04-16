@@ -54,3 +54,4 @@ http://corosoku.blog.jp/*
 *://www.a7la-home.com/*
 *://www.farsroid.com/*
 *://chomanga.org/*
+*://*.aapionline.org/*
