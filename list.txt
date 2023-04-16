@@ -55,3 +55,4 @@ http://corosoku.blog.jp/*
 *://www.farsroid.com/*
 *://chomanga.org/*
 *://*.aapionline.org/*
+*://*.cyberlink.com/blog/*
