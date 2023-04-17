@@ -58,3 +58,4 @@ http://corosoku.blog.jp/*
 *://*.cyberlink.com/blog/*
 *://www.solvusoft.com/*
 *://xoomber.com/*
+*://windll.com/*
