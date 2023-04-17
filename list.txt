@@ -59,3 +59,4 @@ http://corosoku.blog.jp/*
 *://www.solvusoft.com/*
 *://xoomber.com/*
 *://windll.com/*
+*://*.101-help.com/*
