@@ -57,3 +57,4 @@ http://corosoku.blog.jp/*
 *://*.aapionline.org/*
 *://*.cyberlink.com/blog/*
 *://www.solvusoft.com/*
+*://xoomber.com/*
