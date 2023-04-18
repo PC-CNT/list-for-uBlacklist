@@ -60,3 +60,4 @@ http://corosoku.blog.jp/*
 *://xoomber.com/*
 *://windll.com/*
 *://*.101-help.com/*
+*://*.videoconverterfactory.com/*
