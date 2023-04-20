@@ -62,3 +62,4 @@ http://corosoku.blog.jp/*
 *://*.101-help.com/*
 *://*.videoconverterfactory.com/*
 *://www.5kplayer.com/*
+*://www.ubackup.com/*
