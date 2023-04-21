@@ -63,3 +63,4 @@ http://corosoku.blog.jp/*
 *://*.videoconverterfactory.com/*
 *://www.5kplayer.com/*
 *://www.ubackup.com/*
+*://modmenu.io/*
