@@ -64,3 +64,4 @@ http://corosoku.blog.jp/*
 *://www.5kplayer.com/*
 *://www.ubackup.com/*
 *://modmenu.io/*
+*://www.reviversoft.com/*
