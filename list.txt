@@ -66,3 +66,4 @@ http://corosoku.blog.jp/*
 *://modmenu.io/*
 *://www.reviversoft.com/*
 *://blockchain-media.org/*
+*://miningsoft.org/*
