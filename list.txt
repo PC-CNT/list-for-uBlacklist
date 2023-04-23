@@ -65,3 +65,4 @@ http://corosoku.blog.jp/*
 *://www.ubackup.com/*
 *://modmenu.io/*
 *://www.reviversoft.com/*
+*://blockchain-media.org/*
