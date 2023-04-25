@@ -68,3 +68,4 @@ http://corosoku.blog.jp/*
 *://blockchain-media.org/*
 *://miningsoft.org/*
 *://gia-chan.com/*
+*://*.macspots.com/*
