@@ -69,3 +69,7 @@ http://corosoku.blog.jp/*
 *://miningsoft.org/*
 *://gia-chan.com/*
 *://*.macspots.com/*
+*://filehippo.com/*
+*://filehippo.de/*
+*://filehippo.pl/*
+*://filehippo.jp/*
