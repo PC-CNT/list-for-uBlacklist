@@ -67,3 +67,4 @@ http://corosoku.blog.jp/*
 *://www.reviversoft.com/*
 *://blockchain-media.org/*
 *://miningsoft.org/*
+*://gia-chan.com/*
