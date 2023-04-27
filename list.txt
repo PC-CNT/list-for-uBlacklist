@@ -75,3 +75,4 @@ http://corosoku.blog.jp/*
 *://filehippo.jp/*
 *://apk-done.com/*
 *://*.all10soft.com/*
+*://www.chip.de/*
