@@ -74,3 +74,4 @@ http://corosoku.blog.jp/*
 *://filehippo.pl/*
 *://filehippo.jp/*
 *://apk-done.com/*
+*://*.all10soft.com/*
