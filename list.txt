@@ -77,3 +77,4 @@ http://corosoku.blog.jp/*
 *://*.all10soft.com/*
 *://www.chip.de/*
 *://crackersofts.com/*
+*://www.9minecraft.net/*
