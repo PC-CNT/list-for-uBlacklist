@@ -81,3 +81,4 @@ http://corosoku.blog.jp/*
 *://www.leawo.org/*
 *://www.macxdvd.com/*
 *://game8.jp/*
+*://revuestarlightre.com/*
