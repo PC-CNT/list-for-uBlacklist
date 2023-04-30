@@ -80,3 +80,4 @@ http://corosoku.blog.jp/*
 *://www.9minecraft.net/*
 *://www.leawo.org/*
 *://www.macxdvd.com/*
+*://game8.jp/*
