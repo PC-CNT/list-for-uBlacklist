@@ -78,3 +78,4 @@ http://corosoku.blog.jp/*
 *://www.chip.de/*
 *://crackersofts.com/*
 *://www.9minecraft.net/*
+*://www.leawo.org/*
