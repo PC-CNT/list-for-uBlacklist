@@ -83,3 +83,4 @@ http://corosoku.blog.jp/*
 *://game8.jp/*
 *://revuestarlightre.com/*
 *://*.winxmac.com/*
+*://blog.esuteru.com/*
