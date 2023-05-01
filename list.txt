@@ -82,3 +82,4 @@ http://corosoku.blog.jp/*
 *://www.macxdvd.com/*
 *://game8.jp/*
 *://revuestarlightre.com/*
+*://*.winxmac.com/*
