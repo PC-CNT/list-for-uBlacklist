@@ -84,3 +84,4 @@ http://corosoku.blog.jp/*
 *://revuestarlightre.com/*
 *://*.winxmac.com/*
 *://blog.esuteru.com/*
+*://allkaz.com/*
