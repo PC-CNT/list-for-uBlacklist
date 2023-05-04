@@ -87,3 +87,4 @@ http://corosoku.blog.jp/*
 *://allkaz.com/*
 *://jpoezu.com/*
 *://greenluffa.com/*
+*://taloshop.xyz/*
