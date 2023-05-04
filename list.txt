@@ -86,3 +86,4 @@ http://corosoku.blog.jp/*
 *://blog.esuteru.com/*
 *://allkaz.com/*
 *://jpoezu.com/*
+*://greenluffa.com/*
