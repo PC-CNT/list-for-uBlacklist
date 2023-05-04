@@ -90,3 +90,4 @@ http://corosoku.blog.jp/*
 *://taloshop.xyz/*
 *://driversol.com/*
 *://www.sejuku.net/*
+*://tech-camp.in/*
