@@ -91,3 +91,4 @@ http://corosoku.blog.jp/*
 *://driversol.com/*
 *://www.sejuku.net/*
 *://tech-camp.in/*
+*://www.opendll.com/*
