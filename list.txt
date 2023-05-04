@@ -89,3 +89,4 @@ http://corosoku.blog.jp/*
 *://greenluffa.com/*
 *://taloshop.xyz/*
 *://driversol.com/*
+*://www.sejuku.net/*
