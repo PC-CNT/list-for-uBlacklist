@@ -92,3 +92,4 @@ http://corosoku.blog.jp/*
 *://www.sejuku.net/*
 *://tech-camp.in/*
 *://www.opendll.com/*
+*://*.error-dll.info/*
