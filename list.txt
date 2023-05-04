@@ -88,3 +88,4 @@ http://corosoku.blog.jp/*
 *://jpoezu.com/*
 *://greenluffa.com/*
 *://taloshop.xyz/*
+*://driversol.com/*
