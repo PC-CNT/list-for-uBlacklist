@@ -102,3 +102,4 @@ http://corosoku.blog.jp/*
 *://naikshome.com/*
 *://jadeshiny.com/*
 *://*.abdwap.work/*
+*://*.shabakngy.com/*
