@@ -94,3 +94,4 @@ http://corosoku.blog.jp/*
 *://www.opendll.com/*
 *://*.error-dll.info/*
 *://www.okutta.net/*
+*://*.cm-cabeceiras-basto.pt/*
