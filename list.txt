@@ -19,7 +19,11 @@ http://corosoku.blog.jp/*
 *://gamewith.jp/*
 *://welte.jp/*
 *://hakurai.jp/*
-/https?:\/\/www\.justanswer\.\w+/
+*://*.justanswer.com
+*://*.justanswer.co.uk
+*://*.justanswer.de
+*://*.justanswer.es
+*://*.justanswer.jp
 *://*.malavida.com/*
 *://*.softonic-ar.com/*
 *://*.de.softonic.com/*
