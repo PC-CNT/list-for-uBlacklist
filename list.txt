@@ -103,3 +103,4 @@ http://corosoku.blog.jp/*
 *://jadeshiny.com/*
 *://*.abdwap.work/*
 *://*.shabakngy.com/*
+*://*.akhbara24.news/*
