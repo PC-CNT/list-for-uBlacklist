@@ -104,3 +104,4 @@ http://corosoku.blog.jp/*
 *://*.abdwap.work/*
 *://*.shabakngy.com/*
 *://*.akhbara24.news/*
+*://freeprosoftz.com/*
