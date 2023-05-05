@@ -99,3 +99,4 @@ http://corosoku.blog.jp/*
 *://*.error-dll.info/*
 *://www.okutta.net/*
 *://*.cm-cabeceiras-basto.pt/*
+*://naikshome.com/*
