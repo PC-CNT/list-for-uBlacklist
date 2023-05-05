@@ -105,3 +105,4 @@ http://corosoku.blog.jp/*
 *://*.shabakngy.com/*
 *://*.akhbara24.news/*
 *://freeprosoftz.com/*
+*://yaraon-blog.com/*
