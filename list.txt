@@ -93,3 +93,4 @@ http://corosoku.blog.jp/*
 *://tech-camp.in/*
 *://www.opendll.com/*
 *://*.error-dll.info/*
+*://www.okutta.net/*
