@@ -101,3 +101,4 @@ http://corosoku.blog.jp/*
 *://*.cm-cabeceiras-basto.pt/*
 *://naikshome.com/*
 *://jadeshiny.com/*
+*://*.abdwap.work/*
