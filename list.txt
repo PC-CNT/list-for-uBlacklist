@@ -106,3 +106,4 @@ http://corosoku.blog.jp/*
 *://*.akhbara24.news/*
 *://freeprosoftz.com/*
 *://yaraon-blog.com/*
+*://productkeyforfree.com/*
