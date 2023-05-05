@@ -100,3 +100,4 @@ http://corosoku.blog.jp/*
 *://www.okutta.net/*
 *://*.cm-cabeceiras-basto.pt/*
 *://naikshome.com/*
+*://jadeshiny.com/*
