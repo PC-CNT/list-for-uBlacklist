@@ -110,3 +110,4 @@ http://corosoku.blog.jp/*
 *://offlineexam.com/*
 *://sm3ha.mx/*
 *://*.wondershare.jp/freesoft/*
+*://www.freemake.com/*
