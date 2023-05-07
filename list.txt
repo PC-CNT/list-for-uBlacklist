@@ -117,3 +117,4 @@ http://chansoku.com/*
 http://animesoku.com/*
 *://youtubevanced.com/*
 *://vancedmanager.org/*
+*://*.nex-software.com/*
