@@ -115,3 +115,4 @@ http://corosoku.blog.jp/*
 http://*.filedict.com/*
 http://chansoku.com/*
 http://animesoku.com/*
+*://youtubevanced.com/*
