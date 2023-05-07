@@ -119,3 +119,4 @@ http://animesoku.com/*
 *://vancedmanager.org/*
 *://*.nex-software.com/*
 *://malware-guide.com/*
+*://www.windowsfiles.jp/*
