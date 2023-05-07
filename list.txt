@@ -120,3 +120,4 @@ http://animesoku.com/*
 *://*.nex-software.com/*
 *://malware-guide.com/*
 *://www.windowsfiles.jp/*
+*://testedforyou.net/*
