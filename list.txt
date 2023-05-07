@@ -113,3 +113,4 @@ http://corosoku.blog.jp/*
 *://www.freemake.com/*
 *://submitfile.com/*
 http://*.filedict.com/*
+http://chansoku.com/*
