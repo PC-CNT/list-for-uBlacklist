@@ -111,3 +111,4 @@ http://corosoku.blog.jp/*
 *://sm3ha.mx/*
 *://*.wondershare.jp/freesoft/*
 *://www.freemake.com/*
+*://submitfile.com/*
