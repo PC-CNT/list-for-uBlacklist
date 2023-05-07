@@ -114,3 +114,4 @@ http://corosoku.blog.jp/*
 *://submitfile.com/*
 http://*.filedict.com/*
 http://chansoku.com/*
+http://animesoku.com/*
