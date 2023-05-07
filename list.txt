@@ -118,3 +118,4 @@ http://animesoku.com/*
 *://youtubevanced.com/*
 *://vancedmanager.org/*
 *://*.nex-software.com/*
+*://malware-guide.com/*
