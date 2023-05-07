@@ -112,3 +112,4 @@ http://corosoku.blog.jp/*
 *://*.wondershare.jp/freesoft/*
 *://www.freemake.com/*
 *://submitfile.com/*
+http://*.filedict.com/*
