@@ -125,3 +125,9 @@ http://animesoku.com/*
 *://romsmania.games/*
 *://www.inovideoapp.com/*
 *://offliberty.net/*
+*://www.spyhunter.com/*
+*://www.enigmasoftware.com/*
+*://www.enigmasoftware.de/*
+*://www.enigmasoftware.es/*
+*://www.enigmasoftware.fr/*
+*://www.enigmasoftware.jp/*
