@@ -133,3 +133,4 @@ http://animesoku.com/*
 *://www.enigmasoftware.jp/*
 *://www.filetypeadvisor.com/*
 *://www.bugsfighter.com/*
+*://sensorstechforum.com/*
