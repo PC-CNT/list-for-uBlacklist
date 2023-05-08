@@ -122,3 +122,4 @@ http://animesoku.com/*
 *://www.windowsfiles.jp/*
 *://testedforyou.net/*
 *://appli-world.jp/*
+*://romsmania.games/*
