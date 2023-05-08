@@ -136,3 +136,4 @@ http://animesoku.com/*
 *://sensorstechforum.com/*
 *://www.cyclonis.com/*
 *://www.pulsetheworld.com/*
+*://www.411-spyware.com/*
