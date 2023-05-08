@@ -138,3 +138,4 @@ http://animesoku.com/*
 *://www.pulsetheworld.com/*
 *://www.411-spyware.com/*
 *://howtoremove.guide/*
+*://a3.a3erf.com/*
