@@ -131,3 +131,4 @@ http://animesoku.com/*
 *://www.enigmasoftware.es/*
 *://www.enigmasoftware.fr/*
 *://www.enigmasoftware.jp/*
+*://www.filetypeadvisor.com/*
