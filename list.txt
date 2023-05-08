@@ -134,3 +134,4 @@ http://animesoku.com/*
 *://www.filetypeadvisor.com/*
 *://www.bugsfighter.com/*
 *://sensorstechforum.com/*
+*://www.cyclonis.com/*
