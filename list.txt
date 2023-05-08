@@ -135,3 +135,4 @@ http://animesoku.com/*
 *://www.bugsfighter.com/*
 *://sensorstechforum.com/*
 *://www.cyclonis.com/*
+*://www.pulsetheworld.com/*
