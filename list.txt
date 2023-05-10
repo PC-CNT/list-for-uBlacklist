@@ -141,3 +141,4 @@ http://animesoku.com/*
 *://a3.a3erf.com/*
 *://tito4tech.com/*
 *://softradar.com/*
+*://*.vessoft.com/*
