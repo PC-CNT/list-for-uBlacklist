@@ -142,3 +142,4 @@ http://animesoku.com/*
 *://tito4tech.com/*
 *://softradar.com/*
 *://*.vessoft.com/*
+*://*.download.it/*
