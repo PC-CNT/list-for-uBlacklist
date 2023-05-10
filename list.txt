@@ -109,7 +109,6 @@ http://corosoku.blog.jp/*
 *://productkeyforfree.com/*
 *://offlineexam.com/*
 *://sm3ha.mx/*
-*://*.wondershare.jp/freesoft/*
 *://www.freemake.com/*
 *://submitfile.com/*
 http://*.filedict.com/*
@@ -145,3 +144,16 @@ http://animesoku.com/*
 *://*.download.it/*
 *://appsgag.com/*
 *://jumpmatome2ch.biz/*
+*://*.wondershare.com/*
+*://*.wondershare.ae/*
+*://*.wondershare.kr/*
+*://*.wondershare.it/*
+*://*.wondershare.fr/*
+*://*.wondershare.de/*
+*://*.wondershare.es/*
+*://*.wondershare.com.ru/*
+*://*.wondershare.jp/*
+*://*.wondershare.cn/*
+*://*.wondershare.tw/*
+*://*.wondershare.com.br/*
+*://*.wondershare.co.id/*
