@@ -143,3 +143,4 @@ http://animesoku.com/*
 *://softradar.com/*
 *://*.vessoft.com/*
 *://*.download.it/*
+*://appsgag.com/*
