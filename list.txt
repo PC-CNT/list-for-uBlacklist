@@ -140,3 +140,4 @@ http://animesoku.com/*
 *://howtoremove.guide/*
 *://a3.a3erf.com/*
 *://tito4tech.com/*
+*://softradar.com/*
