@@ -144,3 +144,4 @@ http://animesoku.com/*
 *://*.vessoft.com/*
 *://*.download.it/*
 *://appsgag.com/*
+*://jumpmatome2ch.biz/*
