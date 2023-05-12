@@ -159,3 +159,4 @@ http://animesoku.com/*
 *://*.wondershare.co.id/*
 *://pcmacstore.com/*
 *://fxexe.com/*
+*://originaldll.com/*
