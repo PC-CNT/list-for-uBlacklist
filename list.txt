@@ -160,3 +160,4 @@ http://animesoku.com/*
 *://pcmacstore.com/*
 *://fxexe.com/*
 *://originaldll.com/*
+*://www.boostbyreason.com/*
