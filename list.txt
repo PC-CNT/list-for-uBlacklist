@@ -162,3 +162,4 @@ http://animesoku.com/*
 *://originaldll.com/*
 *://www.boostbyreason.com/*
 *://magiskapp.com/*
+*://magisks.com/*
