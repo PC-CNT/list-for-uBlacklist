@@ -161,3 +161,4 @@ http://animesoku.com/*
 *://fxexe.com/*
 *://originaldll.com/*
 *://www.boostbyreason.com/*
+*://magiskapp.com/*
