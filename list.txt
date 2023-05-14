@@ -163,3 +163,4 @@ http://animesoku.com/*
 *://www.boostbyreason.com/*
 *://magiskapp.com/*
 *://magisks.com/*
+*://compressedfiles4u.com/*
