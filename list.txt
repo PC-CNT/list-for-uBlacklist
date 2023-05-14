@@ -164,3 +164,4 @@ http://animesoku.com/*
 *://magiskapp.com/*
 *://magisks.com/*
 *://compressedfiles4u.com/*
+*://pcgamesfully.com/*
