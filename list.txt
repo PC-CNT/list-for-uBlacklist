@@ -167,3 +167,4 @@ http://animesoku.com/*
 *://pcgamesfully.com/*
 *://flarefiles.com/*
 *://www.rehanous.com/*
+*://hdpcgames.com/*
