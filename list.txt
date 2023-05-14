@@ -165,3 +165,4 @@ http://animesoku.com/*
 *://magisks.com/*
 *://compressedfiles4u.com/*
 *://pcgamesfully.com/*
+*://flarefiles.com/*
