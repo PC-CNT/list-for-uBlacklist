@@ -168,3 +168,4 @@ http://animesoku.com/*
 *://flarefiles.com/*
 *://www.rehanous.com/*
 *://hdpcgames.com/*
+*://www.millionpcgames.com/*
