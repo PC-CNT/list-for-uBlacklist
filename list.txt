@@ -166,3 +166,4 @@ http://animesoku.com/*
 *://compressedfiles4u.com/*
 *://pcgamesfully.com/*
 *://flarefiles.com/*
+*://www.rehanous.com/*
