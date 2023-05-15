@@ -169,3 +169,4 @@ http://animesoku.com/*
 *://www.rehanous.com/*
 *://hdpcgames.com/*
 *://www.millionpcgames.com/*
+*://thepcgameshere.com/*
