@@ -172,3 +172,4 @@ http://animesoku.com/*
 *://thepcgameshere.com/*
 *://*.software.informer.com/
 http://*.dailydownloaded.com/*
+*://cheatermad.com/*
