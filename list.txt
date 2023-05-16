@@ -170,3 +170,4 @@ http://animesoku.com/*
 *://hdpcgames.com/*
 *://www.millionpcgames.com/*
 *://thepcgameshere.com/*
+*://*.software.informer.com/
