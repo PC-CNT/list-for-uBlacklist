@@ -171,3 +171,4 @@ http://animesoku.com/*
 *://www.millionpcgames.com/*
 *://thepcgameshere.com/*
 *://*.software.informer.com/
+http://*.dailydownloaded.com/*
