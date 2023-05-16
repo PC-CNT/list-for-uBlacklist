@@ -173,3 +173,4 @@ http://animesoku.com/*
 *://*.software.informer.com/
 http://*.dailydownloaded.com/*
 *://cheatermad.com/*
+*://gamingforecast.com/*
