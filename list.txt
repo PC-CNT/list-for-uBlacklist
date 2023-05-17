@@ -175,3 +175,4 @@ http://*.dailydownloaded.com/*
 *://cheatermad.com/*
 *://gamingforecast.com/*
 *://altema.jp/*
+*://gamerch.com/*
