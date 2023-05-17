@@ -174,3 +174,4 @@ http://animesoku.com/*
 http://*.dailydownloaded.com/*
 *://cheatermad.com/*
 *://gamingforecast.com/*
+*://altema.jp/*
