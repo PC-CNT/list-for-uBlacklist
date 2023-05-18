@@ -177,3 +177,4 @@ http://*.dailydownloaded.com/*
 *://altema.jp/*
 *://gamerch.com/*
 *://cheater.fun/*
+*://corsair.wtf/*
