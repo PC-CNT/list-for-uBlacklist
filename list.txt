@@ -179,3 +179,4 @@ http://*.dailydownloaded.com/*
 *://cheater.fun/*
 *://corsair.wtf/*
 *://smartaim.cc/*
+*://magisk.io/*
