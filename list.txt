@@ -178,3 +178,4 @@ http://*.dailydownloaded.com/*
 *://gamerch.com/*
 *://cheater.fun/*
 *://corsair.wtf/*
+*://smartaim.cc/*
