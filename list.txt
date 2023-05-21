@@ -186,3 +186,4 @@ http://*.dailydownloaded.com/*
 *://softmany.com/*
 *://*.findmysoft.com/*
 *://iodroid.net/*
+*://anturis.com/*
