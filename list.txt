@@ -181,3 +181,4 @@ http://*.dailydownloaded.com/*
 *://smartaim.cc/*
 *://magisk.io/*
 *://*.allxpsoft.com/*
+*://pcmac.download/*
