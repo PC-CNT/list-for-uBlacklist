@@ -183,3 +183,4 @@ http://*.dailydownloaded.com/*
 *://*.allxpsoft.com/*
 *://*.all7soft.com/*
 *://pcmac.download/*
+*://softmany.com/*
