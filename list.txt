@@ -170,7 +170,7 @@ http://animesoku.com/*
 *://hdpcgames.com/*
 *://www.millionpcgames.com/*
 *://thepcgameshere.com/*
-*://*.software.informer.com/
+*://*.informer.com/*
 http://*.dailydownloaded.com/*
 *://cheatermad.com/*
 *://gamingforecast.com/*
