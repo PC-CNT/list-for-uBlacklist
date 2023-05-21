@@ -185,3 +185,4 @@ http://*.dailydownloaded.com/*
 *://pcmac.download/*
 *://softmany.com/*
 *://*.findmysoft.com/*
+*://iodroid.net/*
