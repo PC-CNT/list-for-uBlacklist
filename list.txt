@@ -180,3 +180,4 @@ http://*.dailydownloaded.com/*
 *://corsair.wtf/*
 *://smartaim.cc/*
 *://magisk.io/*
+*://*.allxpsoft.com/*
