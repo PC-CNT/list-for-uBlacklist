@@ -184,3 +184,4 @@ http://*.dailydownloaded.com/*
 *://*.all7soft.com/*
 *://pcmac.download/*
 *://softmany.com/*
+*://*.findmysoft.com/*
