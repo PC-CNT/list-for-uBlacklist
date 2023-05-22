@@ -188,3 +188,7 @@ http://*.dailydownloaded.com/*
 *://iodroid.net/*
 *://anturis.com/*
 *://*.samurai-gamers.com/*
+*://videobyte.cc/*
+*://videobyte.jp/*
+*://videobyte.de/*
+*://videobyte.fr/*
