@@ -193,3 +193,4 @@ http://*.dailydownloaded.com/*
 *://videobyte.de/*
 *://videobyte.fr/*
 *://www.hutmobile.com/*
+*://www.gamerbone.com/*
