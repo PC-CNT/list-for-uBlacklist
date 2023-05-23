@@ -192,3 +192,4 @@ http://*.dailydownloaded.com/*
 *://videobyte.jp/*
 *://videobyte.de/*
 *://videobyte.fr/*
+*://www.hutmobile.com/*
