@@ -195,3 +195,4 @@ http://*.dailydownloaded.com/*
 *://www.hutmobile.com/*
 *://www.gamerbone.com/*
 *://www.ultracompressed.com/*
+*://blog.game084.com/*
