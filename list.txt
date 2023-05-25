@@ -197,3 +197,4 @@ http://*.dailydownloaded.com/*
 *://www.ultracompressed.com/*
 *://blog.game084.com/*
 *://*.dllfile.net/*
+*://*.fix4dll.com/*
