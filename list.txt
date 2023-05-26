@@ -198,3 +198,4 @@ http://*.dailydownloaded.com/*
 *://blog.game084.com/*
 *://*.dllfile.net/*
 *://*.fix4dll.com/*
+*://fixthephoto.com/*
