@@ -200,3 +200,4 @@ http://*.dailydownloaded.com/*
 *://*.fix4dll.com/*
 *://fixthephoto.com/*
 *://infocheats.net/*
+*://cracksray.com/*
