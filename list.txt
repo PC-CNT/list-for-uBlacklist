@@ -199,3 +199,4 @@ http://*.dailydownloaded.com/*
 *://*.dllfile.net/*
 *://*.fix4dll.com/*
 *://fixthephoto.com/*
+*://infocheats.net/*
