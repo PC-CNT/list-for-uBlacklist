@@ -201,3 +201,4 @@ http://*.dailydownloaded.com/*
 *://fixthephoto.com/*
 *://infocheats.net/*
 *://cracksray.com/*
+*://rootscrack.com/*
