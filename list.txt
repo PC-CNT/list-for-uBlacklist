@@ -202,3 +202,4 @@ http://*.dailydownloaded.com/*
 *://infocheats.net/*
 *://cracksray.com/*
 *://rootscrack.com/*
+*://oceanofgamesu.com/*
