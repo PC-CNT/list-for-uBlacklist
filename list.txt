@@ -207,3 +207,4 @@ http://*.dailydownloaded.com/*
 *://*.filemagic.com/*
 *://*.downloadastro.com/*
 *://*.fileviewpro.com/*
+*://extensionfile.net/*
