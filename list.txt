@@ -205,3 +205,4 @@ http://*.dailydownloaded.com/*
 *://oceanofgamesu.com/*
 *://*.eyewated.com/*
 *://*.filemagic.com/*
+*://*.downloadastro.com/*
