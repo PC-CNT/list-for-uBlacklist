@@ -203,3 +203,4 @@ http://*.dailydownloaded.com/*
 *://cracksray.com/*
 *://rootscrack.com/*
 *://oceanofgamesu.com/*
+*://*.eyewated.com/*
