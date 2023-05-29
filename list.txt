@@ -210,3 +210,4 @@ http://*.dailydownloaded.com/*
 *://extensionfile.net/*
 *://*.filesuffix.com/*
 *://whatext.com/*
+*://fileinfo.com/*
