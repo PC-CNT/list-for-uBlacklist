@@ -214,3 +214,4 @@ http://*.dailydownloaded.com/*
 *://www.filedesc.com/*
 *://fes.wiki/*
 *://xboxplay.games/*
+*://*.gamerstand.net/*
