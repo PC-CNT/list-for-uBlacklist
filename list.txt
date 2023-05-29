@@ -209,3 +209,4 @@ http://*.dailydownloaded.com/*
 *://*.fileviewpro.com/*
 *://extensionfile.net/*
 *://*.filesuffix.com/*
+*://whatext.com/*
