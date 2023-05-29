@@ -211,3 +211,4 @@ http://*.dailydownloaded.com/*
 *://*.filesuffix.com/*
 *://whatext.com/*
 *://fileinfo.com/*
+*://www.filedesc.com/*
