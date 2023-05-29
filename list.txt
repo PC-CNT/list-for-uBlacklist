@@ -208,3 +208,4 @@ http://*.dailydownloaded.com/*
 *://*.downloadastro.com/*
 *://*.fileviewpro.com/*
 *://extensionfile.net/*
+*://*.filesuffix.com/*
