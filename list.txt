@@ -212,3 +212,4 @@ http://*.dailydownloaded.com/*
 *://whatext.com/*
 *://fileinfo.com/*
 *://www.filedesc.com/*
+*://fes.wiki/*
