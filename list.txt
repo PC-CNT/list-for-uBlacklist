@@ -213,3 +213,4 @@ http://*.dailydownloaded.com/*
 *://fileinfo.com/*
 *://www.filedesc.com/*
 *://fes.wiki/*
+*://xboxplay.games/*
