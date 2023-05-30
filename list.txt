@@ -219,3 +219,4 @@ http://*.dailydownloaded.com/*
 *://*.convert.world/*
 *://apps66.com/*
 *://fileproinfo.com/*
+*://soubory.info/*
