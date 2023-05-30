@@ -217,3 +217,4 @@ http://*.dailydownloaded.com/*
 *://*.gamerstand.net/*
 *://procrackerz.org/*
 *://*.convert.world/*
+*://apps66.com/*
