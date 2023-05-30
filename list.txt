@@ -216,3 +216,4 @@ http://*.dailydownloaded.com/*
 *://xboxplay.games/*
 *://*.gamerstand.net/*
 *://procrackerz.org/*
+*://*.convert.world/*
