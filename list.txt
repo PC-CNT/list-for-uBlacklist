@@ -215,3 +215,4 @@ http://*.dailydownloaded.com/*
 *://fes.wiki/*
 *://xboxplay.games/*
 *://*.gamerstand.net/*
+*://procrackerz.org/*
