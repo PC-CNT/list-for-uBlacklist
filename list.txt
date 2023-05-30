@@ -220,3 +220,4 @@ http://*.dailydownloaded.com/*
 *://apps66.com/*
 *://fileproinfo.com/*
 *://soubory.info/*
+*://filememo.info/*
