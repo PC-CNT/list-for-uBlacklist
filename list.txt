@@ -231,3 +231,4 @@ http://*.dailydownloaded.com/*
 *://iieef.jthankssur.top/*
 *://sanmartinbakery.us/*
 *://builder4future.pl/*
+*://datatypes.net/*
