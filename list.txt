@@ -222,3 +222,4 @@ http://*.dailydownloaded.com/*
 *://soubory.info/*
 *://filememo.info/*
 *://commentouvrir.com/*
+*://ficheiros.com.br/*
