@@ -224,3 +224,4 @@ http://*.dailydownloaded.com/*
 *://commentouvrir.com/*
 *://ficheiros.com.br/*
 *://pliki.wiki/*
+*://www.file-extension.info/*
