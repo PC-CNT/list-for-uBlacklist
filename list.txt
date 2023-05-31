@@ -221,3 +221,4 @@ http://*.dailydownloaded.com/*
 *://fileproinfo.com/*
 *://soubory.info/*
 *://filememo.info/*
+*://commentouvrir.com/*
