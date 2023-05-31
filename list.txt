@@ -226,3 +226,8 @@ http://*.dailydownloaded.com/*
 *://pliki.wiki/*
 *://www.file-extension.info/*
 *://aprico-media.com/*
+*://www.openfile.me/*
+*://zvivms.tunitytqi.xyz/*
+*://iieef.jthankssur.top/*
+*://sanmartinbakery.us/*
+*://builder4future.pl/*
