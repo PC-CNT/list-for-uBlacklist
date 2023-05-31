@@ -225,3 +225,4 @@ http://*.dailydownloaded.com/*
 *://ficheiros.com.br/*
 *://pliki.wiki/*
 *://www.file-extension.info/*
+*://aprico-media.com/*
