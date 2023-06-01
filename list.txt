@@ -239,3 +239,11 @@ http://*.dailydownloaded.com/*
 *://hvordan-apne.com/*
 *://datei.wiki/*
 *://www.filetypes.jp/*
+*://fileinfo.co/*
+*://fileinfo.fr/*
+*://fileinfo.de/*
+*://fileinfo.es/*
+*://fileinfo.it/*
+*://fileinfo.jp/*
+*://fileinfo.info/*
+*://fileinfo.pl/*
