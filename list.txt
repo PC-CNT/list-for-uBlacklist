@@ -238,3 +238,4 @@ http://*.dailydownloaded.com/*
 *://fileext.info/*
 *://hvordan-apne.com/*
 *://datei.wiki/*
+*://www.filetypes.jp/*
