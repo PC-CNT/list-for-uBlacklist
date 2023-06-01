@@ -232,3 +232,4 @@ http://*.dailydownloaded.com/*
 *://sanmartinbakery.us/*
 *://builder4future.pl/*
 *://datatypes.net/*
+*://megnyitasa.com/*
