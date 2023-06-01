@@ -247,3 +247,4 @@ http://*.dailydownloaded.com/*
 *://fileinfo.jp/*
 *://fileinfo.info/*
 *://fileinfo.pl/*
+*://filext.com/*
