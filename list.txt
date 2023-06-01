@@ -234,3 +234,7 @@ http://*.dailydownloaded.com/*
 *://datatypes.net/*
 *://megnyitasa.com/*
 *://comeaprire.com/*
+*://oppna.info/*
+*://fileext.info/*
+*://hvordan-apne.com/*
+*://datei.wiki/*
