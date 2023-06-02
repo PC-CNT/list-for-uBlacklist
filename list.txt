@@ -19,6 +19,7 @@ http://corosoku.blog.jp/*
 *://gamewith.jp/*
 *://welte.jp/*
 *://hakurai.jp/*
+*://www.gamegadget.jp/*
 *://*.justanswer.com
 *://*.justanswer.co.uk
 *://*.justanswer.de
