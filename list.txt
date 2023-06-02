@@ -255,3 +255,4 @@ http://www.ascentive.com/*
 *://napkforpc.com/*
 *://www.anymp4.jp/*
 *://www.acethinker.jp/*
+*://www.aiseesoft.jp/*
