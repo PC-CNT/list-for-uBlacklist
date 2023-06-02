@@ -251,3 +251,4 @@ http://*.dailydownloaded.com/*
 *://filext.com/*
 http://www.gangangansoku.jp/*
 http://www.ascentive.com/*
+*://www.cisdem.com/*
