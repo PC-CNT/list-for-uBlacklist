@@ -249,3 +249,5 @@ http://*.dailydownloaded.com/*
 *://fileinfo.info/*
 *://fileinfo.pl/*
 *://filext.com/*
+http://www.gangangansoku.jp/*
+http://www.ascentive.com/*
