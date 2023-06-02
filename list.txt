@@ -253,3 +253,4 @@ http://www.gangangansoku.jp/*
 http://www.ascentive.com/*
 *://www.cisdem.com/*
 *://napkforpc.com/*
+*://www.anymp4.jp/*
