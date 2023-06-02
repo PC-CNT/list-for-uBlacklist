@@ -252,3 +252,4 @@ http://*.dailydownloaded.com/*
 http://www.gangangansoku.jp/*
 http://www.ascentive.com/*
 *://www.cisdem.com/*
+*://napkforpc.com/*
