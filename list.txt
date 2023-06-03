@@ -258,3 +258,4 @@ http://www.ascentive.com/*
 *://www.aiseesoft.jp/*
 *://flvconverter.org/*
 *://*.videoproc.com/*
+*://crackedfine.com/*
