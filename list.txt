@@ -261,3 +261,4 @@ http://www.ascentive.com/*
 *://crackedfine.com/*
 *://*.easeus.com/*
 *://www.any-video-converter.jp/*
+*://techshift.net/*
