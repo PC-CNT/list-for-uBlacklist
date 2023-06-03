@@ -260,3 +260,4 @@ http://www.ascentive.com/*
 *://*.videoproc.com/*
 *://crackedfine.com/*
 *://*.easeus.com/*
+*://www.any-video-converter.jp/*
