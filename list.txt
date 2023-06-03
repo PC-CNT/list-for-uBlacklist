@@ -259,3 +259,4 @@ http://www.ascentive.com/*
 *://flvconverter.org/*
 *://*.videoproc.com/*
 *://crackedfine.com/*
+*://*.easeus.com/*
