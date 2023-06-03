@@ -257,3 +257,4 @@ http://www.ascentive.com/*
 *://www.acethinker.jp/*
 *://www.aiseesoft.jp/*
 *://flvconverter.org/*
+*://*.videoproc.com/*
