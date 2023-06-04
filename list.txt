@@ -266,3 +266,4 @@ http://www.ascentive.com/*
 *://hvordanmanabnerenfil.com/*
 *://how2open.com/*
 *://files101.com/*
+*://matomame.jp/*
