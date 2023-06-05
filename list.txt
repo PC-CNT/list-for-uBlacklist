@@ -267,3 +267,4 @@ http://www.ascentive.com/*
 *://how2open.com/*
 *://files101.com/*
 *://matomame.jp/*
+*://pesktop.com/*
