@@ -269,3 +269,4 @@ http://www.ascentive.com/*
 *://matomame.jp/*
 *://pesktop.com/*
 *://magiskroot.net/*
+*://androidhd.com/*
