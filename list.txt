@@ -268,3 +268,4 @@ http://www.ascentive.com/*
 *://files101.com/*
 *://matomame.jp/*
 *://pesktop.com/*
+*://magiskroot.net/*
