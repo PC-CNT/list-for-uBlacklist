@@ -270,3 +270,4 @@ http://www.ascentive.com/*
 *://pesktop.com/*
 *://magiskroot.net/*
 *://androidhd.com/*
+*://jin115.com/*
