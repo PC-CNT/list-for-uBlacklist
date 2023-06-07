@@ -273,3 +273,4 @@ http://www.ascentive.com/*
 *://jin115.com/*
 *://revanced.io/*
 *://revancedapp.net/*
+*://gamepedia.jp/*
