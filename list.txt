@@ -274,3 +274,4 @@ http://www.ascentive.com/*
 *://revanced.io/*
 *://revancedapp.net/*
 *://gamepedia.jp/*
+*://waral.club/*
