@@ -271,3 +271,4 @@ http://www.ascentive.com/*
 *://magiskroot.net/*
 *://androidhd.com/*
 *://jin115.com/*
+*://revanced.io/*
