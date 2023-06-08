@@ -276,3 +276,4 @@ http://www.ascentive.com/*
 *://gamepedia.jp/*
 *://waral.club/*
 *://giftbonus.life/*
+*://productkeyfree.org/*
