@@ -275,3 +275,4 @@ http://www.ascentive.com/*
 *://revancedapp.net/*
 *://gamepedia.jp/*
 *://waral.club/*
+*://giftbonus.life/*
