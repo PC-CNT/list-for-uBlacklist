@@ -277,3 +277,4 @@ http://www.ascentive.com/*
 *://waral.club/*
 *://giftbonus.life/*
 *://productkeyfree.org/*
+*://*.fileplanet.com/*
