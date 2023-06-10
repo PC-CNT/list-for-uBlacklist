@@ -278,3 +278,4 @@ http://www.ascentive.com/*
 *://giftbonus.life/*
 *://productkeyfree.org/*
 *://*.fileplanet.com/*
+*://themagisk.com/*
