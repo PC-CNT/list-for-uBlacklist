@@ -279,3 +279,4 @@ http://www.ascentive.com/*
 *://productkeyfree.org/*
 *://*.fileplanet.com/*
 *://themagisk.com/*
+*://digitaldiy.jp/*
