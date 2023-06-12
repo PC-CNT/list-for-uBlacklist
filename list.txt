@@ -281,3 +281,4 @@ http://www.ascentive.com/*
 *://themagisk.com/*
 *://digitaldiy.jp/*
 *://www.tunesbro.jp/*
+*://www.tunesbro.com/*
