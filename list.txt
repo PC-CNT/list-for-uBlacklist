@@ -283,5 +283,6 @@ http://www.ascentive.com/*
 *://www.tunesbro.jp/*
 *://www.tunesbro.com/*
 *://*.drvhub.net/*
-*://zzwmz.dcreatureion.top/*
-*://rqwep.ggradedxm.top/*
+*://*.dcreatureion.top/*
+*://*.ggradedxm.top/*
+*://*.raredraw.top/*
