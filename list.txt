@@ -291,3 +291,4 @@ http://www.ascentive.com/*
 *://kingsoftz.com/*
 *://productkeys.org/*
 *://www.dexon.ind.br/*
+*://*.nandemo-uketori.com/*
