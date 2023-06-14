@@ -294,3 +294,4 @@ http://www.ascentive.com/*
 *://*.nandemo-uketori.com/*
 *://soft98.ir/*
 *://khotaiphanmem.net/*
+*://apkmb.com/*
