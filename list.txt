@@ -293,3 +293,4 @@ http://www.ascentive.com/*
 *://www.dexon.ind.br/*
 *://*.nandemo-uketori.com/*
 *://soft98.ir/*
+*://khotaiphanmem.net/*
