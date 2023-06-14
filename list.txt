@@ -292,3 +292,4 @@ http://www.ascentive.com/*
 *://productkeys.org/*
 *://www.dexon.ind.br/*
 *://*.nandemo-uketori.com/*
+*://soft98.ir/*
