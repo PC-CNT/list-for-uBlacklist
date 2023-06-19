@@ -302,3 +302,4 @@ http://www.ascentive.com/*
 *://cheaterboss.com/*
 *://gcamapk.io/*
 *://cyanogenmods.org/*
+*://www.mc-mod.net/*
