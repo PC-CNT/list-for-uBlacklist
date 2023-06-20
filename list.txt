@@ -303,3 +303,4 @@ http://www.ascentive.com/*
 *://gcamapk.io/*
 *://cyanogenmods.org/*
 *://www.mc-mod.net/*
+*://gcamapk.cc/*
