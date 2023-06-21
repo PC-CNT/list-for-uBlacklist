@@ -309,3 +309,4 @@ http://www.ascentive.com/*
 *://revancedextended.com/*
 *://softwikia.com/*
 *://www.removemalware-jp.com/*
+*://nanj-world.blog.jp/*
