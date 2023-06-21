@@ -308,3 +308,4 @@ http://www.ascentive.com/*
 *://www.hatauzmani.com/*
 *://revancedextended.com/*
 *://softwikia.com/*
+*://www.removemalware-jp.com/*
