@@ -310,3 +310,4 @@ http://www.ascentive.com/*
 *://softwikia.com/*
 *://www.removemalware-jp.com/*
 *://nanj-world.blog.jp/*
+*://news4wide.net/*
