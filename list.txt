@@ -313,3 +313,4 @@ http://www.ascentive.com/*
 *://news4wide.net/*
 *://www.fonepaw.com/*
 *://www.tunepat.jp/*
+*://tweetsoku.com/*
