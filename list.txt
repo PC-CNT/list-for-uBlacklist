@@ -311,3 +311,4 @@ http://www.ascentive.com/*
 *://www.removemalware-jp.com/*
 *://nanj-world.blog.jp/*
 *://news4wide.net/*
+*://www.fonepaw.com/*
