@@ -312,3 +312,4 @@ http://www.ascentive.com/*
 *://nanj-world.blog.jp/*
 *://news4wide.net/*
 *://www.fonepaw.com/*
+*://www.tunepat.jp/*
