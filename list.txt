@@ -314,3 +314,4 @@ http://www.ascentive.com/*
 *://www.fonepaw.com/*
 *://www.tunepat.jp/*
 *://tweetsoku.com/*
+*://*.tenorshare.com/*
