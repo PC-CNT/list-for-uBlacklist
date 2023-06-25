@@ -316,3 +316,4 @@ http://www.ascentive.com/*
 *://tweetsoku.com/*
 *://*.tenorshare.com/*
 *://gametokka.com/*
+*://nekogram.org/*
