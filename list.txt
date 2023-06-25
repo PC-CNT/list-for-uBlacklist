@@ -315,3 +315,4 @@ http://www.ascentive.com/*
 *://www.tunepat.jp/*
 *://tweetsoku.com/*
 *://*.tenorshare.com/*
+*://gametokka.com/*
