@@ -317,3 +317,4 @@ http://www.ascentive.com/*
 *://*.tenorshare.com/*
 *://gametokka.com/*
 *://girlsvip-matome.com/*
+*://apkmody.io/*
