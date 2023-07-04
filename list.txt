@@ -318,3 +318,4 @@ http://www.ascentive.com/*
 *://gametokka.com/*
 *://girlsvip-matome.com/*
 *://apkmody.io/*
+*://news.careerconnection.jp/*
