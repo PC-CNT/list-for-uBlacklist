@@ -320,3 +320,4 @@ http://www.ascentive.com/*
 *://apkmody.io/*
 *://news.careerconnection.jp/*
 *://qaafunny.com/*
+*://techlink.azurefd.net/*
