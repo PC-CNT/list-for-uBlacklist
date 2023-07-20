@@ -321,3 +321,4 @@ http://www.ascentive.com/*
 *://news.careerconnection.jp/*
 *://qaafunny.com/*
 *://techlink.azurefd.net/*
+*://www.hakux.xyz/*
