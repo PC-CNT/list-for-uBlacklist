@@ -323,3 +323,4 @@ http://www.ascentive.com/*
 *://techlink.azurefd.net/*
 *://www.hakux.xyz/*
 *://imasoku.com/*
+*://netgeek.biz/*
