@@ -324,3 +324,4 @@ http://www.ascentive.com/*
 *://www.hakux.xyz/*
 *://imasoku.com/*
 *://netgeek.biz/*
+*://linkk.azurefd.net/*
