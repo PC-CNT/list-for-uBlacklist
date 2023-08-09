@@ -325,3 +325,4 @@ http://www.ascentive.com/*
 *://imasoku.com/*
 *://netgeek.biz/*
 *://linkk.azurefd.net/*
+*://www.mutyun.com/*
