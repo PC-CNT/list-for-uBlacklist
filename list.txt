@@ -326,3 +326,4 @@ http://www.ascentive.com/*
 *://netgeek.biz/*
 *://linkk.azurefd.net/*
 *://www.mutyun.com/*
+*://tripmall.online/*
