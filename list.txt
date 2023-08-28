@@ -327,3 +327,4 @@ http://www.ascentive.com/*
 *://linkk.azurefd.net/*
 *://www.mutyun.com/*
 *://tripmall.online/*
+*://techacademy.jp/*
