@@ -328,3 +328,4 @@ http://www.ascentive.com/*
 *://www.mutyun.com/*
 *://tripmall.online/*
 *://techacademy.jp/*
+*://*.magiskmodule.com/*
