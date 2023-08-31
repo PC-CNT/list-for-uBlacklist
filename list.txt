@@ -329,3 +329,4 @@ http://www.ascentive.com/*
 *://tripmall.online/*
 *://techacademy.jp/*
 *://*.magiskmodule.com/*
+*://mp3songs.azurefd.net/*
