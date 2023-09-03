@@ -330,3 +330,4 @@ http://www.ascentive.com/*
 *://techacademy.jp/*
 *://*.magiskmodule.com/*
 *://mp3songs.azurefd.net/*
+*://blog.myshoes.com/*
