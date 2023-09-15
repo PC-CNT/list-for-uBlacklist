@@ -333,3 +333,4 @@ http://www.ascentive.com/*
 *://blog.myshoes.com/*
 *://gameranbu.jp/*
 *://keeeping-healthy.com/*
+*://www.isofter.jp/*
