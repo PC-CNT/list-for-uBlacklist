@@ -334,3 +334,4 @@ http://www.ascentive.com/*
 *://gameranbu.jp/*
 *://keeeping-healthy.com/*
 *://www.isofter.jp/*
+*://adblockultimate.net/*
