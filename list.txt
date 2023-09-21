@@ -336,3 +336,4 @@ http://www.ascentive.com/*
 *://www.isofter.jp/*
 *://adblockultimate.net/*
 *://www.bvmnbxqdpq.com/*
+*://*.wizcase.com/*
