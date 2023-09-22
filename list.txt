@@ -337,3 +337,4 @@ http://www.ascentive.com/*
 *://adblockultimate.net/*
 *://www.bvmnbxqdpq.com/*
 *://*.wizcase.com/*
+*://windowsapp.tokyo/*
