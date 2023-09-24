@@ -339,3 +339,13 @@ http://www.ascentive.com/*
 *://*.wizcase.com/*
 *://windowsapp.tokyo/*
 *://www.tyroleadership.com/*
+*://*.reneelab.com/*
+*://*.reneelab.de/*
+*://*.reneelab.es/*
+*://*.reneelab.fr/*
+*://*.reneelab.it/*
+*://*.reneelab.biz/*
+*://*.reneelab.jp/*
+*://*.reneelab.net/*
+*://*.reneelab.cc/*
+*://*.reneelab.kr/*
