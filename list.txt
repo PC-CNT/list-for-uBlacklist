@@ -349,3 +349,4 @@ http://www.ascentive.com/*
 *://*.reneelab.net/*
 *://*.reneelab.cc/*
 *://*.reneelab.kr/*
+*://vidon.me/*
