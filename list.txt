@@ -350,3 +350,4 @@ http://www.ascentive.com/*
 *://*.reneelab.cc/*
 *://*.reneelab.kr/*
 *://vidon.me/*
+*://videosolo.net/*
