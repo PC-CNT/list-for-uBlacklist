@@ -367,3 +367,4 @@ http://www.ascentive.com/*
 *://www.cleverget.com/*
 *://www.cleverget.jp/*
 *://oneclickroot.com/*
+*://liteapks.com/*
