@@ -351,3 +351,5 @@ http://www.ascentive.com/*
 *://*.reneelab.kr/*
 *://vidon.me/*
 *://videosolo.net/*
+*://www.cleverget.com/*
+*://www.cleverget.jp/*
