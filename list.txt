@@ -369,3 +369,4 @@ http://www.ascentive.com/*
 *://oneclickroot.com/*
 *://liteapks.com/*
 *://tsuisoku.com/*
+*://youtubevanced.ru/*
