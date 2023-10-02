@@ -370,3 +370,4 @@ http://www.ascentive.com/*
 *://liteapks.com/*
 *://tsuisoku.com/*
 *://youtubevanced.ru/*
+*://logisoku.com/*
