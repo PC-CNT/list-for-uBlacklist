@@ -371,3 +371,4 @@ http://www.ascentive.com/*
 *://tsuisoku.com/*
 *://youtubevanced.ru/*
 *://logisoku.com/*
+*://*.athowto.com/*
