@@ -372,3 +372,4 @@ http://www.ascentive.com/*
 *://youtubevanced.ru/*
 *://logisoku.com/*
 *://*.athowto.com/*
+*://www.intellisystechnology.com/*
