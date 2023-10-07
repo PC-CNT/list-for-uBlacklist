@@ -373,3 +373,4 @@ http://www.ascentive.com/*
 *://logisoku.com/*
 *://*.athowto.com/*
 *://www.intellisystechnology.com/*
+*://www.micheleromanovini.com/*
