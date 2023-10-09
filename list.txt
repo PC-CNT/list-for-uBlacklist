@@ -374,3 +374,4 @@ http://www.ascentive.com/*
 *://*.athowto.com/*
 *://www.intellisystechnology.com/*
 *://www.micheleromanovini.com/*
+*://saikosoft.jp/*
