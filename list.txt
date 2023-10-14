@@ -380,3 +380,4 @@ http://www.ascentive.com/*
 *://www.micheleromanovini.com/*
 *://saikosoft.jp/*
 *://*.tipsandtricks.tech/*
+*://www.diskpart.com/*
