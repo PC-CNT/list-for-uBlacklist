@@ -381,3 +381,4 @@ http://www.ascentive.com/*
 *://saikosoft.jp/*
 *://*.tipsandtricks.tech/*
 *://www.diskpart.com/*
+*://z-lib.io/*
