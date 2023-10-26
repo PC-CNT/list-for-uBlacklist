@@ -383,3 +383,4 @@ http://www.ascentive.com/*
 *://www.diskpart.com/*
 *://z-lib.io/*
 *://z-lib.is/*
+*://zlibrary.to/*
