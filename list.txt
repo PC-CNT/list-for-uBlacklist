@@ -384,3 +384,4 @@ http://www.ascentive.com/*
 *://z-lib.io/*
 *://z-lib.is/*
 *://zlibrary.to/*
+*://files.expert/*
