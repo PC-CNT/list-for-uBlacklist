@@ -385,3 +385,4 @@ http://www.ascentive.com/*
 *://z-lib.is/*
 *://zlibrary.to/*
 *://files.expert/*
+*://*.hotjar.com/*
