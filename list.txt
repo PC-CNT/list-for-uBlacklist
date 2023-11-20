@@ -386,3 +386,4 @@ http://www.ascentive.com/*
 *://zlibrary.to/*
 *://files.expert/*
 *://*.hotjar.com/*
+*://*.sm3ha.io/*
