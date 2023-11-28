@@ -387,3 +387,4 @@ http://www.ascentive.com/*
 *://files.expert/*
 *://*.hotjar.com/*
 *://*.sm3ha.io/*
+*://thedocbiz.com/*
