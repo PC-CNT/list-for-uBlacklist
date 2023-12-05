@@ -389,3 +389,4 @@ http://www.ascentive.com/*
 *://*.sm3ha.io/*
 *://thedocbiz.com/*
 *://luckypatchers.info/*
+*://luckypatcher.tools/*
