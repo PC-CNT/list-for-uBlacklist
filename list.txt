@@ -390,3 +390,4 @@ http://www.ascentive.com/*
 *://thedocbiz.com/*
 *://luckypatchers.info/*
 *://luckypatcher.tools/*
+*://tigertmt.com/*
