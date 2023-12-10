@@ -391,3 +391,4 @@ http://www.ascentive.com/*
 *://luckypatchers.info/*
 *://luckypatcher.tools/*
 *://tigertmt.com/*
+*://*.fileextension.info/*
