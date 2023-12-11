@@ -393,3 +393,4 @@ http://www.ascentive.com/*
 *://tigertmt.com/*
 *://*.fileextension.info/*
 *://*.ultfone.jp/*
+*://*.imyfone.com/*
