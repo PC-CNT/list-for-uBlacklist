@@ -392,3 +392,4 @@ http://www.ascentive.com/*
 *://luckypatcher.tools/*
 *://tigertmt.com/*
 *://*.fileextension.info/*
+*://*.ultfone.jp/*
