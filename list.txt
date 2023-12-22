@@ -394,3 +394,4 @@ http://www.ascentive.com/*
 *://*.fileextension.info/*
 *://*.ultfone.jp/*
 *://*.imyfone.com/*
+*://*.apkshub.com/*
