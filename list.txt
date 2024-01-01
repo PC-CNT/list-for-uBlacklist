@@ -395,3 +395,4 @@ http://www.ascentive.com/*
 *://*.ultfone.jp/*
 *://*.imyfone.com/*
 *://*.apkshub.com/*
+*://webukatu.com/*
