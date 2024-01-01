@@ -396,3 +396,4 @@ http://www.ascentive.com/*
 *://*.imyfone.com/*
 *://*.apkshub.com/*
 *://webukatu.com/*
+*://kandatasokuho.com/*
