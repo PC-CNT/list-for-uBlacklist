@@ -397,3 +397,4 @@ http://www.ascentive.com/*
 *://*.apkshub.com/*
 *://webukatu.com/*
 *://kandatasokuho.com/*
+*://*.iskysoft.jp/*
