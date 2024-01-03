@@ -398,3 +398,4 @@ http://www.ascentive.com/*
 *://webukatu.com/*
 *://kandatasokuho.com/*
 *://*.iskysoft.jp/*
+*://myjitsu.jp/*
