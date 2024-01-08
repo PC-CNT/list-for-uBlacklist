@@ -399,3 +399,4 @@ http://www.ascentive.com/*
 *://kandatasokuho.com/*
 *://*.iskysoft.jp/*
 *://myjitsu.jp/*
+*://*.linsar.com/*
