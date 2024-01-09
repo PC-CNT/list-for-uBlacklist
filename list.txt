@@ -400,3 +400,4 @@ http://www.ascentive.com/*
 *://*.iskysoft.jp/*
 *://myjitsu.jp/*
 *://*.linsar.com/*
+*://*.coolmuster.com/*
