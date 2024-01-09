@@ -401,3 +401,4 @@ http://www.ascentive.com/*
 *://myjitsu.jp/*
 *://*.linsar.com/*
 *://*.coolmuster.com/*
+*://*.gpsjoystick.com/*
