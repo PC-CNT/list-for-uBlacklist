@@ -404,3 +404,4 @@ http://www.ascentive.com/*
 *://*.gpsjoystick.com/*
 *://*.fenet.jp/*
 *://kino-code.com/*
+*://*.widsmob.com/*
