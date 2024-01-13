@@ -402,3 +402,4 @@ http://www.ascentive.com/*
 *://*.linsar.com/*
 *://*.coolmuster.com/*
 *://*.gpsjoystick.com/*
+*://*.fenet.jp/*
