@@ -405,3 +405,4 @@ http://www.ascentive.com/*
 *://*.fenet.jp/*
 *://kino-code.com/*
 *://*.widsmob.com/*
+*://programmercollege.jp/*
