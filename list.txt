@@ -403,3 +403,4 @@ http://www.ascentive.com/*
 *://*.coolmuster.com/*
 *://*.gpsjoystick.com/*
 *://*.fenet.jp/*
+*://kino-code.com/*
