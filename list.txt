@@ -406,3 +406,4 @@ http://www.ascentive.com/*
 *://kino-code.com/*
 *://*.widsmob.com/*
 *://programmercollege.jp/*
+*://*.trendmicro.com/*
