@@ -344,7 +344,7 @@ http://www.ascentive.com/*
 *://linkk.azurefd.net/*
 *://www.mutyun.com/*
 *://tripmall.online/*
-*://techacademy.jp/*
+*://*.techacademy.jp/*
 *://*.magiskmodule.com/*
 *://mp3songs.azurefd.net/*
 *://blog.myshoes.com/*
