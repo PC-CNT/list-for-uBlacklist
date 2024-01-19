@@ -407,3 +407,4 @@ http://www.ascentive.com/*
 *://*.widsmob.com/*
 *://programmercollege.jp/*
 *://*.trendmicro.com/*
+*://*.nahwalwatan.org/*
