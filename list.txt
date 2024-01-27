@@ -408,3 +408,4 @@ http://www.ascentive.com/*
 *://programmercollege.jp/*
 *://*.trendmicro.com/*
 *://*.nahwalwatan.org/*
+*://tiebukurojinsei.com/*
