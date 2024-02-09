@@ -409,3 +409,4 @@ http://www.ascentive.com/*
 *://*.trendmicro.com/*
 *://*.nahwalwatan.org/*
 *://tiebukurojinsei.com/*
+*://www.soft222.com/*
