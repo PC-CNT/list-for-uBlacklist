@@ -410,3 +410,4 @@ http://www.ascentive.com/*
 *://*.nahwalwatan.org/*
 *://tiebukurojinsei.com/*
 *://www.soft222.com/*
+*://*.sorbillomenu.com/*
