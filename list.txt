@@ -412,3 +412,4 @@ http://www.ascentive.com/*
 *://www.soft222.com/*
 *://*.sorbillomenu.com/*
 *://*.destinedforgrace.com/*
+*://*.restaurant-artis.com/*
