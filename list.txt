@@ -413,3 +413,4 @@ http://www.ascentive.com/*
 *://*.sorbillomenu.com/*
 *://*.destinedforgrace.com/*
 *://*.restaurant-artis.com/*
+*://*.newsroomtransparencytracker.com/*
