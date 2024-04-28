@@ -414,3 +414,4 @@ http://www.ascentive.com/*
 *://*.destinedforgrace.com/*
 *://*.restaurant-artis.com/*
 *://*.newsroomtransparencytracker.com/*
+*://*.kintarogroup.com/*
