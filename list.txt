@@ -416,3 +416,4 @@ http://www.ascentive.com/*
 *://*.newsroomtransparencytracker.com/*
 *://*.kintarogroup.com/*
 *://*.theoniric.com/*
+*://*.mgoesad.com/*
