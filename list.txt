@@ -419,3 +419,4 @@ http://www.ascentive.com/*
 *://*.mgoesad.com/*
 *://*.granabip.org/*
 *://*.marketingfuture.today/*
+*://*.imsdevelopments.com/*
