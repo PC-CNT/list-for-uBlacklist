@@ -415,3 +415,4 @@ http://www.ascentive.com/*
 *://*.restaurant-artis.com/*
 *://*.newsroomtransparencytracker.com/*
 *://*.kintarogroup.com/*
+*://*.theoniric.com/*
