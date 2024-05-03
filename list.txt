@@ -417,3 +417,4 @@ http://www.ascentive.com/*
 *://*.kintarogroup.com/*
 *://*.theoniric.com/*
 *://*.mgoesad.com/*
+*://*.granabip.org/*
