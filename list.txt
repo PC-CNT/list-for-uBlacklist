@@ -420,3 +420,4 @@ http://www.ascentive.com/*
 *://*.granabip.org/*
 *://*.marketingfuture.today/*
 *://*.imsdevelopments.com/*
+*://*.girardin-peinture.ch/*
