@@ -421,3 +421,4 @@ http://www.ascentive.com/*
 *://*.marketingfuture.today/*
 *://*.imsdevelopments.com/*
 *://*.girardin-peinture.ch/*
+*://*.mesanacionaldevictimas.org/*
