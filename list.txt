@@ -422,3 +422,4 @@ http://www.ascentive.com/*
 *://*.imsdevelopments.com/*
 *://*.girardin-peinture.ch/*
 *://*.mesanacionaldevictimas.org/*
+*://*.staldechaamsebossen.nl/*
