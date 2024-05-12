@@ -423,3 +423,4 @@ http://www.ascentive.com/*
 *://*.girardin-peinture.ch/*
 *://*.mesanacionaldevictimas.org/*
 *://*.staldechaamsebossen.nl/*
+*://*.brooklynzpizza.com/*
