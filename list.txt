@@ -428,3 +428,4 @@ http://www.ascentive.com/*
 *://*.vtopim.com/*
 *://*.dvdfab.org/*
 *://*.svg.sa/*
+*://*.shimashou.co.jp/*
