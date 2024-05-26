@@ -431,3 +431,4 @@ http://www.ascentive.com/*
 *://*.shimashou.co.jp/*
 *://*.nmsudaipur.org/*
 *://*.legame-gr.jp/*
+*://*.lowcode.agency/*
