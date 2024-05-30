@@ -432,3 +432,4 @@ http://www.ascentive.com/*
 *://*.nmsudaipur.org/*
 *://*.legame-gr.jp/*
 *://*.lowcode.agency/*
+*://*.nubit.es/*
