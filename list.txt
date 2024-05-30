@@ -434,3 +434,4 @@ http://www.ascentive.com/*
 *://*.lowcode.agency/*
 *://*.nubit.es/*
 *://*.vancedyoutube.org/*
+*://*.chanelal.com/*
