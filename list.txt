@@ -436,3 +436,4 @@ http://www.ascentive.com/*
 *://*.vancedyoutube.org/*
 *://*.chanelal.com/*
 *://*.magiskmanager.com/*
+*://*.magisk.me/*
