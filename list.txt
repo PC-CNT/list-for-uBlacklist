@@ -433,3 +433,4 @@ http://www.ascentive.com/*
 *://*.legame-gr.jp/*
 *://*.lowcode.agency/*
 *://*.nubit.es/*
+*://*.vancedyoutube.org/*
