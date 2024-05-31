@@ -437,3 +437,4 @@ http://www.ascentive.com/*
 *://*.chanelal.com/*
 *://*.magiskmanager.com/*
 *://*.magisk.me/*
+*://*.z-lib.id/*
