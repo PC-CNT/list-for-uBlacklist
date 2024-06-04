@@ -438,3 +438,4 @@ http://www.ascentive.com/*
 *://*.magiskmanager.com/*
 *://*.magisk.me/*
 *://*.z-lib.id/*
+*://*.musictrades.co.jp/*
