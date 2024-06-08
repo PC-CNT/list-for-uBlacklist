@@ -441,3 +441,4 @@ http://www.ascentive.com/*
 *://*.musictrades.co.jp/*
 *://zero-plus.io/*
 *://*.fogliedalloro.az/*
+*://*.summersetcontinentalhotel.com/*
