@@ -442,3 +442,4 @@ http://www.ascentive.com/*
 *://zero-plus.io/*
 *://*.fogliedalloro.az/*
 *://*.summersetcontinentalhotel.com/*
+*://*.vanced.tools/*
