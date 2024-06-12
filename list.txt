@@ -443,3 +443,4 @@ http://www.ascentive.com/*
 *://*.fogliedalloro.az/*
 *://*.summersetcontinentalhotel.com/*
 *://*.vanced.tools/*
+*://*.eduardonatal.com.br/*
