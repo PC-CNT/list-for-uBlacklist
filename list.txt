@@ -444,3 +444,4 @@ http://www.ascentive.com/*
 *://*.summersetcontinentalhotel.com/*
 *://*.vanced.tools/*
 *://*.eduardonatal.com.br/*
+*://*.lovelandelementarypta.org/*
