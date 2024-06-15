@@ -446,3 +446,4 @@ http://www.ascentive.com/*
 *://*.eduardonatal.com.br/*
 *://*.lovelandelementarypta.org/*
 *://*.fiexpolatinamerica.com/*
+*://*.motionics.com/*
