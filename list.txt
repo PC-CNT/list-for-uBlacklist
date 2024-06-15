@@ -445,3 +445,4 @@ http://www.ascentive.com/*
 *://*.vanced.tools/*
 *://*.eduardonatal.com.br/*
 *://*.lovelandelementarypta.org/*
+*://*.fiexpolatinamerica.com/*
