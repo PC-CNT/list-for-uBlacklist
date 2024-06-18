@@ -448,3 +448,4 @@ http://www.ascentive.com/*
 *://*.fiexpolatinamerica.com/*
 *://*.motionics.com/*
 *://*.dbefree.com/*
+*://*.youtubevanced.org/*
