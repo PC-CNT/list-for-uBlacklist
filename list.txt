@@ -449,3 +449,4 @@ http://www.ascentive.com/*
 *://*.motionics.com/*
 *://*.dbefree.com/*
 *://*.youtubevanced.org/*
+*://*.cleartechrecruiting.com/*
