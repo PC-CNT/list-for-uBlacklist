@@ -453,3 +453,4 @@ http://www.ascentive.com/*
 *://*.rabwatalriyad.com/*
 *://*.diomandeshoes.com/*
 *://*.bvmoreiramaia.pt/*
+*://*.sigamobiletech.com/*
