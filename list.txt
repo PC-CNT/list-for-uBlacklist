@@ -454,3 +454,4 @@ http://www.ascentive.com/*
 *://*.diomandeshoes.com/*
 *://*.bvmoreiramaia.pt/*
 *://*.sigamobiletech.com/*
+*://*.mekan0.com/*
