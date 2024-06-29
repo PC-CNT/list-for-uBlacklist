@@ -457,3 +457,4 @@ http://www.ascentive.com/*
 *://*.mekan0.com/*
 *://*.luckypatcher.biz/*
 *://*.web-camp.io/*
+*://*.arosemenaway.com/*
