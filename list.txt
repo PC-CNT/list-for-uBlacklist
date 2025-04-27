@@ -469,3 +469,4 @@ http://www.ascentive.com/*
 *://techis.jp/*
 *://raretech.site/*
 *://ninjacode.work/*
+*://volx.jp/*
