@@ -470,3 +470,4 @@ http://www.ascentive.com/*
 *://raretech.site/*
 *://ninjacode.work/*
 *://volx.jp/*
+*://*.namu.wiki/*
