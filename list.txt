@@ -471,3 +471,4 @@ http://www.ascentive.com/*
 *://ninjacode.work/*
 *://volx.jp/*
 *://*.namu.wiki/*
+*://magiskdelta.net/*
