@@ -472,3 +472,4 @@ http://www.ascentive.com/*
 *://volx.jp/*
 *://*.namu.wiki/*
 *://magiskdelta.net/*
+*://teratail.com/*
