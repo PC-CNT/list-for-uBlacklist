@@ -473,3 +473,4 @@ http://www.ascentive.com/*
 *://*.namu.wiki/*
 *://magiskdelta.net/*
 *://teratail.com/*
+*://zenn.dev/*
