@@ -474,3 +474,4 @@ http://www.ascentive.com/*
 *://magiskdelta.net/*
 *://teratail.com/*
 *://zenn.dev/*
+*://gigazine.net/*
