@@ -475,3 +475,4 @@ http://www.ascentive.com/*
 *://teratail.com/*
 *://zenn.dev/*
 *://gigazine.net/*
+*://magiskapk.net/*
