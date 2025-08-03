@@ -478,3 +478,4 @@ http://www.ascentive.com/*
 *://magiskapk.net/*
 *://yoshives.com/*
 *://note.com/*
+*://*.genspark.ai/*
