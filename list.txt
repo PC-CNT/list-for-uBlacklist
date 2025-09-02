@@ -479,3 +479,4 @@ http://www.ascentive.com/*
 *://yoshives.com/*
 *://note.com/*
 *://*.genspark.ai/*
+*://*.togetter.com/*
