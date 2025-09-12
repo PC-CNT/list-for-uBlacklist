@@ -480,3 +480,4 @@ http://www.ascentive.com/*
 *://note.com/*
 *://*.genspark.ai/*
 *://*.togetter.com/*
+*://*.teknopro.one/*
