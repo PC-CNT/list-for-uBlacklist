@@ -482,3 +482,4 @@ http://www.ascentive.com/*
 *://*.togetter.com/*
 *://*.teknopro.one/*
 *://*.toketeru.com/*
+*://*.vp.net/*
