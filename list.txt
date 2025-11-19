@@ -483,3 +483,4 @@ http://www.ascentive.com/*
 *://*.teknopro.one/*
 *://*.toketeru.com/*
 *://*.vp.net/*
+*://*.windows.day/*
