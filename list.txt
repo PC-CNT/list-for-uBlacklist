@@ -484,3 +484,4 @@ http://www.ascentive.com/*
 *://*.toketeru.com/*
 *://*.vp.net/*
 *://*.windows.day/*
+*://tokyoretro.store/*
