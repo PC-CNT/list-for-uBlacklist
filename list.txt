@@ -485,3 +485,4 @@ http://www.ascentive.com/*
 *://*.vp.net/*
 *://*.windows.day/*
 *://tokyoretro.store/*
+*://*.posfie.com/*
