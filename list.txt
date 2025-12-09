@@ -486,3 +486,4 @@ http://www.ascentive.com/*
 *://*.windows.day/*
 *://tokyoretro.store/*
 *://*.posfie.com/*
+*://*.comshop.ne.jp/*
