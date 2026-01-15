@@ -487,3 +487,4 @@ http://www.ascentive.com/*
 *://tokyoretro.store/*
 *://*.posfie.com/*
 *://*.comshop.ne.jp/*
+*://*.wsxdn.com/*
